@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.818c3421.chunk.css",
+    "main.js": "/static/js/main.fd0472a0.chunk.js",
+    "main.js.map": "/static/js/main.fd0472a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50791c72.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50791c72.js.map",
+    "static/js/2.2ac24111.chunk.js": "/static/js/2.2ac24111.chunk.js",
+    "static/js/2.2ac24111.chunk.js.map": "/static/js/2.2ac24111.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.60c1bf84b4fa554072f7fe33454eaf55.js": "/precache-manifest.60c1bf84b4fa554072f7fe33454eaf55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.818c3421.chunk.css.map": "/static/css/main.818c3421.chunk.css.map",
+    "static/media/cinema.png": "/static/media/cinema.423be059.png",
+    "static/media/css.png": "/static/media/css.71837401.png",
+    "static/media/instagram.png": "/static/media/instagram.4aa0100f.png",
+    "static/media/App.css": "/static/media/poppins-regular-webfont.cd8ad152.woff2",
+    "static/media/java.png": "/static/media/java.ba58ea6c.png",
+    "static/media/me.jpg": "/static/media/me.f95416d0.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.5deef6de.png",
+    "static/media/nodejs.png": "/static/media/nodejs.9a96398d.png",
+    "static/media/react.png": "/static/media/react.580ffd26.png",
+    "static/media/sass.png": "/static/media/sass.447ab0cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50791c72.js",
+    "static/js/2.2ac24111.chunk.js",
+    "static/css/main.818c3421.chunk.css",
+    "static/js/main.fd0472a0.chunk.js"
+  ]
+}
